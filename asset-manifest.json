@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/D3-Graphs/static/css/main.8e45d303.css",
+    "main.js": "/D3-Graphs/static/js/main.82c32347.js",
+    "static/js/453.36c399e1.chunk.js": "/D3-Graphs/static/js/453.36c399e1.chunk.js",
+    "static/media/tips.csv": "/D3-Graphs/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/D3-Graphs/index.html",
+    "main.8e45d303.css.map": "/D3-Graphs/static/css/main.8e45d303.css.map",
+    "main.82c32347.js.map": "/D3-Graphs/static/js/main.82c32347.js.map",
+    "453.36c399e1.chunk.js.map": "/D3-Graphs/static/js/453.36c399e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e45d303.css",
+    "static/js/main.82c32347.js"
+  ]
+}
